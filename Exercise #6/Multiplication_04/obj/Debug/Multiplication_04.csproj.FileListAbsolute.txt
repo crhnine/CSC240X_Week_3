@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\bin\Debug\Multiplication_04.exe.config
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\bin\Debug\Multiplication_04.exe
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\bin\Debug\Multiplication_04.pdb
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\obj\Debug\Multiplication_04.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\obj\Debug\Multiplication_04.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\obj\Debug\Multiplication_04.exe
+C:\Users\chris\source\repos\Multiplication_04\Multiplication_04\obj\Debug\Multiplication_04.pdb
